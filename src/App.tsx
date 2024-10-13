@@ -1,4 +1,4 @@
-// src/App.tsx
+
 import React from 'react';
 import { CssBaseline, GlobalStyles } from '@mui/material';
 import { Provider } from 'react-redux';

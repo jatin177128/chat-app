@@ -1,4 +1,4 @@
-// src/components/Chat.tsx
+
 import React, { useState, useRef, useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { AppDispatch, RootState } from '../store';
